@@ -1,5 +1,8 @@
 hello git
 hello git
 hello git
+<<<<<<< HEAD
 hello git  master_test
-hello git
+=======
+hello git hot_fix_test
+>>>>>>> hot_fix
